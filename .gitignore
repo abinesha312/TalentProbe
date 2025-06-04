@@ -19,6 +19,15 @@ dist-ssr
 .env.test.local
 .env.production.local
 
+# Python virtual environment
+HireSensi/
+venv/
+env/
+.venv/
+.env/
+*.pyc
+__pycache__/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
